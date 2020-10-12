@@ -1,0 +1,23 @@
+{
+  "name": "create-react-loaded",
+  "version": "1.0.2",
+  "description": "Spin up a robust react/webpack build.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-react-loaded": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexMercedCoder/react-basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexMercedCoder/react-basic/issues"
+  },
+  "homepage": "https://github.com/AlexMercedCoder/react-basic#readme"
+}
